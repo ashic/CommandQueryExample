@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImplementation", "SimpleImplementation\SimpleImplementation.csproj", "{F492FAAE-0600-49A7-9200-F69324389D89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImplementationModel", "SimpleImplementationModel\SimpleImplementationModel.csproj", "{AF316A6A-8FF1-474C-A1DB-2D0BA91F631B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F492FAAE-0600-49A7-9200-F69324389D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F492FAAE-0600-49A7-9200-F69324389D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F492FAAE-0600-49A7-9200-F69324389D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F492FAAE-0600-49A7-9200-F69324389D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF316A6A-8FF1-474C-A1DB-2D0BA91F631B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF316A6A-8FF1-474C-A1DB-2D0BA91F631B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF316A6A-8FF1-474C-A1DB-2D0BA91F631B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF316A6A-8FF1-474C-A1DB-2D0BA91F631B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
